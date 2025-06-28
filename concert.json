@@ -22,7 +22,8 @@
 			"KKTIX售賣的台灣演唱會對BOT方面限制較高，有機會無法完全自動化"
 		],
 		"purchase_link": "https://buy.stripe.com/7sI7u45PW95vbN628c",
-		"is_active": true
+		"is_active": true,
+		"remark": "testing"
 	},
 	{
 		"bot_id": "hkticketing_hi_miro_2025_0521",
